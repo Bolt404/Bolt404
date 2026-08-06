@@ -1,6 +1,6 @@
 # Hi there, I'm Bolt404 👋
 
-Welcome to my GitHub! I'm a passionate developer with a love for clean code, efficient solutions, and exploring new technologies.  
+Welcome to my GitHub!
 
 ---
 
