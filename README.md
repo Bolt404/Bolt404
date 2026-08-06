@@ -30,9 +30,5 @@ Welcome to my GitHub!
 
 I once made a **boolean converter**—it was either true or false… mostly..
 
----
 
-## GitHub Stats
-
-![Bolt404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bolt404&show_icons=true&theme=radical)
 
